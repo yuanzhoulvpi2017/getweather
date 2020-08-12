@@ -16,7 +16,7 @@ install.packages("curl")
 
 # 第二步 安装我写的R包：这个包叫getweather
 
-#### 下载上面那个getweather_0.1.0.tar.gz文件
+#### 下载上面那个getweather_0.1.0.tar.gz文件，然后使用Rsttudio安装这个文件
 
 library(getweather)
 
