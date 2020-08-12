@@ -15,10 +15,13 @@ install.packages("stringr")
 install.packages("curl")
 
 # 第二步 安装我写的R包：这个包叫getweather
+
+#### 下载上面那个getweather_0.1.0.tar.gz文件
+
 library(getweather)
 
 # 第三步 设置我的高德api key
-gaode_api <- "fb54d609047fc6b4c202c69c792e7107"
+gaode_api <- "fb54dfc6b4c202cgsdsy69c792e7107"
 
 
 # 第三步 使用我写的三个函数
