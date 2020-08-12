@@ -58,7 +58,7 @@ help("get_future_weather")
 
 help("get_current_weather")
 
-### 获得更多详情，可以关注我的微信公众号：pypi       （一个黑色的圆周率pi）也欢迎大家开issue，我将积极解答
+### 获得更多详情，可以关注我的微信公众号：pypi       （图标是一个黑色的圆周率pi）也欢迎大家开issue，我将积极解答
 
 
 
