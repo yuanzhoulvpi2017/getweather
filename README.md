@@ -52,6 +52,8 @@ temp_data <- get_future_weather(gaode_key = gaode_api, city_code = "340422")
 
 
 # 查看帮助
+help("search_citycode")
+
 help("get_future_weather")
 
 help("get_current_weather")
