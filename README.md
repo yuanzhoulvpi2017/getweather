@@ -9,7 +9,9 @@
 
 # 第一步安装三个必须的包
 install.packages("jsonlite")
+
 install.packages("stringr")
+
 install.packages("curl")
 
 # 第二步 安装我写的R包：这个包叫getweather
@@ -25,7 +27,9 @@ gaode_api <- "fb54d609047fc6b4c202c69c792e7107"
 # part 1 根据城市中文查找citycode
 
 search_citycode(city_name = "北京")
+
 search_citycode(city_name = "合肥")
+
 search_citycode(city_name = "寿县")
 
 
