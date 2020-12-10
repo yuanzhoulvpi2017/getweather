@@ -64,5 +64,8 @@ help("get_current_weather")
 ### 获得更多详情，可以关注我的微信公众号：pypi       （图标是一个黑色的圆周率pi）也欢迎大家开issue，我将积极解答
 
 
+### 获得视频帮助
 
-##### 
+可以看我这个文章：
+
+[视频介绍](https://mp.weixin.qq.com/s?__biz=MzU3MDkzNjk1OQ==&mid=2247485721&idx=1&sn=0f96688e5333c8fda0e269b7aeec5f5f&chksm=fce69209cb911b1f4746ddfb500e6664ffc065317d21dcd5b152b282e9c755f37df4145cc910&token=1636253395&lang=zh_CN#rd)
