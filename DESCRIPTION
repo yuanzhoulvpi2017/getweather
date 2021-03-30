@@ -1,0 +1,14 @@
+Package: getweather
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: HuZheng
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Use the weather api of Amap to get the weather of Chinese cities
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: jsonlite, stringr
+Depends: R (>= 2.10)
+NeedsCompilation: no
+Packaged: 2020-08-12 06:56:45 UTC; yuanz
